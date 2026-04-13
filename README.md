@@ -1,4 +1,4 @@
-# 🚀 Crypto Price App
+<img width="1786" height="901" alt="image" src="https://github.com/user-attachments/assets/d5314691-bcf8-40da-9514-03483d362953" /># 🚀 Crypto Price App
 
 This is a simple and interactive **Cryptocurrency Price Dashboard** built using **Python and Streamlit**. The app allows users to explore cryptocurrency data, visualize price changes, and download datasets.
 
@@ -74,13 +74,6 @@ streamlit run app.py
 This application is for **educational purposes only**.
 The insights provided are **not financial advice**. Use at your own risk.
 
----
-
-## 📸 Screenshot
-
-(Add your app screenshot here)
-
----
 
 ## 📬 Author
 
